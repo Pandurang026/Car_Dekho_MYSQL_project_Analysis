@@ -1,0 +1,13 @@
+
+
+
+1. Read cars data?
+2. Total cars: to get the count of total record?
+3. The manager asked the employee how many cars will be available in 2023?
+4. The manager asked the employee how many cars are available in 2020,2021,2022?
+5. Client askesd me to print the total of all cars by year. I dont see all the details
+6. Client requested a car dealer agent how many petrol cars will be in 2020?
+7. The manager told the employee to give a print all the fuel cars(PETROL, DIESEL AND CNG) COME BY ALL YEAR
+8. MANAGER SAID THERE WERE MORE THAN 100 CARS IN A GIVEN YEAR,WHICH YEAR HAD MORE THAN 100 CARS?
+9. THE MANAGER SAID TO THE EMPLOYEE ALL CARS COUNT DETAILS BETWEEN 2015 AND 2023, WE NEED A COMPLETE LIST
+10. THE MANAGER SAID TO THE EMPLOYEE ALL CARS DETAILS BETWEEN 2015 TO 2023 WE NEED COMPLETE LIST
